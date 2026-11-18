@@ -2,11 +2,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20RAVINDRA%20CHAUDHARI&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20RAVINDRA%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
 
 # Hi, I'm Jayesh 👋
 
 ### Data Analyst | B.Sc. Computer Science | AI & Full-Stack Developer
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Learning+Data+Analytics+%F0%9F%93%8A;Building+AI-Powered+Projects+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Insights+%E2%9C%A8" alt="Animated typing introduction" /></a>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/📍-Vadodara%2C%20Gujarat-0F172A?style=for-the-badge" alt="Location: Vadodara, Gujarat" />
@@ -119,6 +123,8 @@ The links below point to repositories found in the connected GitHub account. A r
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayeshChaudhari07-JC&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 <img src="https://streak-stats.demolab.com?user=JayeshChaudhari07-JC&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayeshChaudhari07-JC&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
