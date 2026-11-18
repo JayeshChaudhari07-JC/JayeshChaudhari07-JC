@@ -93,6 +93,32 @@ My course curriculum, as provided by KS Technologies, covers:
 
 ---
 
+## ☠️ CYBER OPS // JAYU SYSTEM HUD
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&pause=700&color=39FF14&center=true&vCenter=true&width=760&lines=%5B+MATRIX+PROTOCOL+%5D+INITIALIZED;%5B+CYBER+CORE+%5D+GREEN+%7C+RED+%7C+PURPLE;%5B+AI+MODULES+%5D+LOADING...;%5B+ACCESS+%5D+AUTHORIZED+%2F%2F+JAYU" alt="Animated cyber operations terminal" />
+
+<img src="https://img.shields.io/badge/MATRIX-ONLINE-00FF41?style=for-the-badge&logo=matrix&logoColor=00FF41&labelColor=050505" alt="Matrix online" />
+<img src="https://img.shields.io/badge/CYBER_CORE-ACTIVE-FF1744?style=for-the-badge&logo=probot&logoColor=white&labelColor=050505" alt="Cyber core active" />
+<img src="https://img.shields.io/badge/AI_MODULES-INITIALIZING-BB86FC?style=for-the-badge&logo=openai&logoColor=white&labelColor=050505" alt="AI modules initializing" />
+
+</div>
+
+```text
+┌────────────────────── JAYU // SYSTEM CONSOLE ──────────────────────┐
+│  USER      : JAYESH CHAUDHARI                                      │
+│  MODE      : LEARN  /  BUILD  /  EXPERIMENT                         │
+│  MODULES   : DATA ANALYTICS  •  AI  •  DEVELOPMENT                  │
+│  SECURITY  : ETHICAL LEARNING ONLY                                 │
+│  STATUS    : [ ONLINE ]                                            │
+└────────────────────────────────────────────────────────────────────┘
+```
+
+> **Cyberpunk visuals, real-world learning.** This is a visual developer theme—not a claim of professional cybersecurity or penetration-testing credentials.
+
+---
+
 ## 🚀 Projects & Public Repositories
 
 The links below point to repositories found in the connected GitHub account. A repository description is shown as published on GitHub; where GitHub has no description, that is stated rather than guessed.
@@ -125,6 +151,16 @@ The links below point to repositories found in the connected GitHub account. A r
 <img src="https://streak-stats.demolab.com?user=JayeshChaudhari07-JC&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayeshChaudhari07-JC&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Matrix
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
 
 </div>
 
