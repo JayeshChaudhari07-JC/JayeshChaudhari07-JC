@@ -30,9 +30,10 @@ I'm **Jayesh Ravindra Chaudhari**, a Computer Science student building practical
 
 ## 🎯 Current Focus
 
-**Data Analytics**
-- Python, SQL, MS Excel
-- Pandas and data cleaning
+**Data Analytics (currently learning)**
+- Python and SQL
+- Power BI and Tableau
+- MS Excel, Pandas, and data cleaning
 - Exploratory data analysis and data visualization
 - Turning raw data into clear, useful insights
 
@@ -47,6 +48,8 @@ I'm **Jayesh Ravindra Chaudhari**, a Computer Science student building practical
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
