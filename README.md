@@ -4,6 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20RAVINDRA%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20PROJECTS%20%7C%20PYTHON%20%26%20SQL&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
 
+<p align="center">
+  <img src="./assets/jayu-cyber-logo.svg" width="260" alt="JAYU cyberpunk neon logo" />
+</p>
+
 # Hi, I'm Jayesh 👋
 
 ### Aspiring Data Analyst | B.Sc. Computer Science Student | AI Project Builder
