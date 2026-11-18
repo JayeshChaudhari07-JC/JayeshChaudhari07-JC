@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20RAVINDRA%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20FULL-STACK%20DEVELOPMENT&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20RAVINDRA%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20PROJECTS%20%7C%20PYTHON%20%26%20SQL&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
 
 # Hi, I'm Jayesh 👋
 
-### Data Analyst | B.Sc. Computer Science | AI & Full-Stack Developer
+### Aspiring Data Analyst | B.Sc. Computer Science Student | AI Project Builder
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Learning+Data+Analytics+%F0%9F%93%8A;Building+AI-Powered+Projects+%F0%9F%A4%96;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Insights+%E2%9C%A8" alt="Animated typing introduction" /></a>
@@ -74,6 +74,8 @@ My course curriculum, as provided by KS Technologies, covers:
 
 ## 🧰 Tech Stack
 
+<sub>These badges represent tools I use or am learning through coursework and projects; they are not a claim of expert-level proficiency.</sub>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -119,25 +121,28 @@ My course curriculum, as provided by KS Technologies, covers:
 
 ---
 
-## 🚀 Projects & Public Repositories
+## 🚀 Featured Builds // Project Arsenal
 
-The links below point to repositories found in the connected GitHub account. A repository description is shown as published on GitHub; where GitHub has no description, that is stated rather than guessed.
+<div align="center">
 
-| Project / Repository | GitHub description | Repository | GitHub Pages |
-|---|---|---|---|
-| 🧠 **CyberMind AI** | CyberMind AI - Cybersecurity Learning Platform | [cybermind-ai](https://github.com/JayeshChaudhari07-JC/cybermind-ai) | [Pages](https://jayeshchaudhari07-jc.github.io/cybermind-ai/) |
-| 🎬 **MediaForge Pro** | No repository description set | [mediaforge](https://github.com/JayeshChaudhari07-JC/mediaforge) | [Pages](https://jayeshchaudhari07-jc.github.io/mediaforge/) |
-| 📈 **Day Trader Skill** | 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar. | [day-trader-skill](https://github.com/JayeshChaudhari07-JC/day-trader-skill) | — |
-| 🤖 **YouTube Automation Bot** | Advanced Multi-Theme AI Video Generation SaaS Engine with Text-to-Video and Dynamic Image Mapping Architecture. | [youtube-automation-bot](https://github.com/JayeshChaudhari07-JC/youtube-automation-bot) | — |
-| 🛍️ **AI Ultra Deal Hunter** | No repository description set | [ai-ultra-deal-hunter-v2](https://github.com/JayeshChaudhari07-JC/ai-ultra-deal-hunter-v2) | — |
-| 🛒 **Amazon–Flipkart Deals** | No repository description set; README describes a cloud-first deal-alert platform for Amazon and Flipkart. | [Amazon-Flipkart-deals](https://github.com/JayeshChaudhari07-JC/Amazon-Flipkart-deals) | — |
-| 📊 **Trading Platform** | No repository description set; README documents a Python trading platform with a backtesting API. | [trading-platform](https://github.com/JayeshChaudhari07-JC/trading-platform) | — |
-| 📄 **DocuFlow AI** | This is an AI-powered SaaS tool called DocuFlow AI. It helps students and professionals extract data from PDFs (like scholarship details and invoices) and organize it into structured tables. We offer a subscription model for advanced features and bulk processing. | [docuflow-ai](https://github.com/JayeshChaudhari07-JC/docuflow-ai) | — |
-| 💳 **Payment App** | No repository description set | [my-payment-app](https://github.com/JayeshChaudhari07-JC/my-payment-app) | — |
-| 🌐 **Jayu Web Project** | No repository description set | [jayu-jayu.gethub.io](https://github.com/JayeshChaudhari07-JC/jayu-jayu.gethub.io) | — |
-| 🛍️ **AI Ultra Deal Hunter (Original)** | No repository description set | [ai-ultra-deal-hunter](https://github.com/JayeshChaudhari07-JC/ai-ultra-deal-hunter) | — |
+| 🧠 **NSE AI Signal Platform** | 📈 **Day Trader Skill** |
+|---|---|
+| Participation → sector strength → stock selection → momentum → AI chart analysis → setup score → entry, stop-loss, target and risk/reward. A developing market-analysis and backtesting project. | An 11-skill paper-first trading toolkit covering chart scans, news, entries, exits, risk, budgeting and trade replay. Orders require explicit approval. |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/NSE-AI-SIGNAL-PLATFORM) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/day-trader-skill) |
 
-> **Note:** GitHub's repository metadata reports Pages enabled for CyberMind AI and MediaForge. The links above use the standard GitHub Pages URL pattern; the live deployment response was not independently confirmed during this update. No public repository matching **Jayu AI Dashboard** or a dedicated **Data Analytics** project was found in the connected account's public repository list.
+| 🏗️ **Nameplate Studio** | 🛍️ **AI Ultra Deal Hunter** |
+|---|---|
+| AI web-agency engine with personalised demo pages, category themes and an outreach desk. See the repository README for implemented phases and limitations. | Cloud-first Amazon + Flipkart deal-alert platform with Cloudflare Worker, D1 schema, scheduled scanner, scoring, Telegram alert path and mobile dashboard. Marketplace integrations are marked NOT CONFIGURED until credentials are added. |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/nameplate-studio) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/Amazon-Flipkart-deals) |
+
+| 📊 **Trading Platform** | 🛡️ **CyberMind AI** |
+|---|---|
+| Python trading platform with a historical-price cache and backtesting API. The README documents a Phase 1 implementation and a rolling historical-data limitation. | Cybersecurity learning platform concept. The public README currently contains only a short project description. |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/trading-platform) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/cybermind-ai) |
+
+</div>
+
+> **Project honesty:** These links showcase repositories that currently have readable project documentation. Some projects are works in progress; repository presence does not mean production-ready deployment. Empty repositories are intentionally not displayed as completed projects.
 
 ---
 
@@ -160,7 +165,7 @@ The links below point to repositories found in the connected GitHub account. A r
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%" />
+<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake-dark.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake.svg" />\n  <img src="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />\n</picture>
 
 </div>
 
