@@ -28,14 +28,39 @@ I'm **Jayesh Ravindra Chaudhari**, a Computer Science student building practical
 - 🤖 Interested in AI-integrated applications, automation, and useful developer tools
 - 🛠️ I learn by building, testing, documenting, and improving projects
 
+## 📚 Data Analytics Course — Currently Pursuing
+
+**Institute:** KS Technologies, Vadodara, Gujarat  
+**Course:** Data Analytics  
+**Status:** Currently ongoing — not yet completed
+
+My course curriculum, as provided by KS Technologies, covers:
+
+| Module | Topics |
+|---|---|
+| **Python** | Python fundamentals, variables, data types, operators, conditions, loops, strings, lists, tuples, dictionaries, debugging, date and time functions |
+| **Advanced Python** | Functions, parameters, recursion, file handling, exceptions, OOP, classes, objects, inheritance, and polymorphism |
+| **NumPy** | NumPy introduction, ndarray, data types, array attributes, indexing, slicing, iteration, array manipulation, binary and mathematical operations |
+| **Pandas** | Series, DataFrames, data structures, DataFrame methods, reindexing, sorting, and window functions |
+| **MySQL** | Database and table operations, SQL queries, SELECT, WHERE, JOINs, clauses, keys, DCL commands, INSERT, UPDATE, DELETE, and Python–MySQL integration |
+| **Tableau** | Data visualization, workspace, data connections, filtering, calculations, functions, charts, and graphs |
+| **Power BI** | Data sources, charts, tables, matrices, reports, dashboards, conditional formatting, DAX functions, and calculated columns |
+| **Advanced Excel** | Formulas, functions, cell references, sorting, filters, Goal Seek, PivotTables, charts, VLOOKUP, HLOOKUP, logical, conditional, text, date, and time functions |
+
+**Practical projects included in the course curriculum**
+1. Python project development
+2. NumPy and Pandas project
+3. MySQL tables and relationships project
+4. MySQL and Python integration project (CRUD operations)
+5. Data visualization and reports project
+
+> I am currently pursuing this course. These are the topics and projects listed in the course syllabus; they should not be read as completed skills or finished projects.
+
 ## 🎯 Current Focus
 
-**Data Analytics (currently learning)**
-- Python and SQL
-- Power BI and Tableau
-- MS Excel, Pandas, and data cleaning
-- Exploratory data analysis and data visualization
-- Turning raw data into clear, useful insights
+- Learning Data Analytics step by step through the KS Technologies course
+- Practising Python, SQL, Excel, NumPy, Pandas, Power BI, and Tableau as the course progresses
+- Building AI-integrated web applications alongside my analytics learning
 
 **AI-Integrated Web Development**
 - JavaScript, HTML, CSS
