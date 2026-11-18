@@ -74,7 +74,7 @@ The links below point to repositories found in the connected GitHub account. A r
 | 🛍️ **AI Ultra Deal Hunter** | No repository description set | [ai-ultra-deal-hunter-v2](https://github.com/JayeshChaudhari07-JC/ai-ultra-deal-hunter-v2) | — |
 | 🛒 **Amazon–Flipkart Deals** | No repository description set; README describes a cloud-first deal-alert platform for Amazon and Flipkart. | [Amazon-Flipkart-deals](https://github.com/JayeshChaudhari07-JC/Amazon-Flipkart-deals) | — |
 | 📊 **Trading Platform** | No repository description set; README documents a Python trading platform with a backtesting API. | [trading-platform](https://github.com/JayeshChaudhari07-JC/trading-platform) | — |
-| 📄 **DocuFlow AI** | AI-powered SaaS tool for extracting PDF data into structured tables. | [docuflow-ai](https://github.com/JayeshChaudhari07-JC/docuflow-ai) | — |
+| 📄 **DocuFlow AI** | This is an AI-powered SaaS tool called DocuFlow AI. It helps students and professionals extract data from PDFs (like scholarship details and invoices) and organize it into structured tables. We offer a subscription model for advanced features and bulk processing. | [docuflow-ai](https://github.com/JayeshChaudhari07-JC/docuflow-ai) | — |
 | 💳 **Payment App** | No repository description set | [my-payment-app](https://github.com/JayeshChaudhari07-JC/my-payment-app) | — |
 | 🌐 **Jayu Web Project** | No repository description set | [jayu-jayu.gethub.io](https://github.com/JayeshChaudhari07-JC/jayu-jayu.gethub.io) | — |
 | 🛍️ **AI Ultra Deal Hunter (Original)** | No repository description set | [ai-ultra-deal-hunter](https://github.com/JayeshChaudhari07-JC/ai-ultra-deal-hunter) | — |
