@@ -130,6 +130,19 @@ The links below point to repositories found in the connected GitHub account. A r
 
 ---
 
+## 🟢 Terminal // System Status
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=%3E+INITIALIZING+JAYU+DEV+PROFILE...;%3E+LOADING+DATA+ANALYTICS+MODULES...;%3E+AI+SYSTEMS+%3A+ONLINE;%3E+BUILD.+LEARN.+REPEAT._" alt="Animated terminal status" />
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-00FF41?style=for-the-badge&labelColor=050505&logo=linux&logoColor=00FF41" alt="Learning and building status" />
+<img src="https://komarev.com/ghpvc/?username=JayeshChaudhari07-JC&style=for-the-badge&color=00ff41&label=PROFILE+VISITORS" alt="Profile visitors" />
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -140,5 +153,11 @@ The links below point to repositories found in the connected GitHub account. A r
 <div align="center">
 
 **“Learn continuously. Build consistently. Turn data into decisions.”**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:064E3B,100:020617&height=130&section=footer&animation=twinkling&fontColor=FFFFFF&font=Orbitron" width="100%" alt="Animated neon green hacker-style footer" />
 
 </div>
