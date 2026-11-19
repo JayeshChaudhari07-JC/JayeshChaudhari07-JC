@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20RAVINDRA%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20PROJECTS%20%7C%20PYTHON%20%26%20SQL&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20PROJECTS%20%7C%20PYTHON%20%26%20SQL&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
 
 <p align="center">
   <img src="./assets/jayu-cyber-logo.svg" width="260" alt="JAYU cyberpunk neon logo" />
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Jayesh Ravindra Chaudhari**, a Computer Science student building practical skills across data analytics, artificial intelligence, and full-stack development.
+I'm **Jayesh Chaudhari**, a Computer Science student building practical skills across data analytics, artificial intelligence, and full-stack development.
 
 - 🎓 **Education:** B.Sc. in Computer Science (in progress) — Kavayitri Bahinabai Chaudhari North Maharashtra University (KBCNMU)
 - 📍 **Location:** Vadodara, Gujarat, India
@@ -76,7 +76,7 @@ My course curriculum, as provided by KS Technologies, covers:
 - Java
 - Linux, Git, and GitHub
 
-## 🧰 Tech Stack
+\n## ⚡ Live Developer Status\n\n<div align="center">\n\n| 🟢 CURRENTLY | 🔧 BUILDING | 📚 LEARNING | 🎯 NEXT MILESTONE |\n|---|---|---|---|\n| Data Analytics | AI-powered projects | Python · SQL · Analytics tools | Build & publish analytics portfolio projects |\n\n</div>\n\n> Status reflects my current learning journey—not professional experience or completed course credentials.\n\n## 🧰 Tech Stack
 
 <sub>These badges represent tools I use or am learning through coursework and projects; they are not a claim of expert-level proficiency.</sub>
 
@@ -188,7 +188,7 @@ My course curriculum, as provided by KS Technologies, covers:
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Milestones\n\n- 🎓 B.Sc. Computer Science — in progress\n- 📊 Data Analytics course — currently pursuing\n- 🛠️ Learning through practical, documented projects\n- 🚀 Working toward a portfolio of data analytics projects\n\n## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:jayuchau2424@gmail.com"><img src="https://img.shields.io/badge/Email-jayuchau2424%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jayesh" /></a>
