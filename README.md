@@ -76,7 +76,20 @@ My course curriculum, as provided by KS Technologies, covers:
 - Java
 - Linux, Git, and GitHub
 
-\n## ⚡ Live Developer Status\n\n<div align="center">\n\n| 🟢 CURRENTLY | 🔧 BUILDING | 📚 LEARNING | 🎯 NEXT MILESTONE |\n|---|---|---|---|\n| Data Analytics | AI-powered projects | Python · SQL · Analytics tools | Build & publish analytics portfolio projects |\n\n</div>\n\n> Status reflects my current learning journey—not professional experience or completed course credentials.\n\n## 🧰 Tech Stack
+
+## ⚡ Live Developer Status
+
+<div align="center">
+
+| 🟢 CURRENTLY | 🔧 BUILDING | 📚 LEARNING | 🎯 NEXT MILESTONE |
+|---|---|---|---|
+| Data Analytics | AI-powered projects | Python · SQL · Analytics tools | Build & publish analytics portfolio projects |
+
+</div>
+
+> Status reflects my current learning journey—not professional experience or completed course credentials.
+
+## 🧰 Tech Stack
 
 <sub>These badges represent tools I use or am learning through coursework and projects; they are not a claim of expert-level proficiency.</sub>
 
@@ -169,7 +182,11 @@ My course curriculum, as provided by KS Technologies, covers:
 
 <div align="center">
 
-<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake-dark.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake.svg" />\n  <img src="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />\n</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/JayeshChaudhari07-JC/JayeshChaudhari07-JC/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+</picture>
 
 </div>
 
@@ -188,7 +205,14 @@ My course curriculum, as provided by KS Technologies, covers:
 
 ---
 
-## 🏆 Milestones\n\n- 🎓 B.Sc. Computer Science — in progress\n- 📊 Data Analytics course — currently pursuing\n- 🛠️ Learning through practical, documented projects\n- 🚀 Working toward a portfolio of data analytics projects\n\n## 🤝 Connect With Me
+## 🏆 Milestones
+
+- 🎓 B.Sc. Computer Science — in progress
+- 📊 Data Analytics course — currently pursuing
+- 🛠️ Learning through practical, documented projects
+- 🚀 Working toward a portfolio of data analytics projects
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:jayuchau2424@gmail.com"><img src="https://img.shields.io/badge/Email-jayuchau2424%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jayesh" /></a>
