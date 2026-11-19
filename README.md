@@ -175,22 +175,25 @@ $ access
 
 <div align="center">
 
-| 🧠 **NSE AI Signal Platform** | 📈 **Day Trader Skill** |
+| 📊 **Retail Sales SQL + Python Analytics** | 🧠 **NSE AI Signal Platform** |
 |---|---|
-| Participation → sector strength → stock selection → momentum → AI chart analysis → setup score → entry, stop-loss, target and risk/reward. A developing market-analysis and backtesting project. | An 11-skill paper-first trading toolkit covering chart scans, news, entries, exits, risk, budgeting and trade replay. Orders require explicit approval. |
-| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/NSE-AI-SIGNAL-PLATFORM) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/day-trader-skill) |
+| End-to-end retail sales analytics case study with 100 synthetic transactions, SQL business queries, Pandas EDA, KPIs, discount/profit analysis and customer risk segmentation. | Participation → sector strength → stock selection → momentum → AI chart analysis → setup score → entry, stop-loss, target and risk/reward. A developing market-analysis and backtesting project. |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/retail-sales-sql-python-analytics) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/NSE-AI-SIGNAL-PLATFORM) |
 
-| 🏗️ **Nameplate Studio** | 🛍️ **AI Ultra Deal Hunter** |
+| 📈 **Day Trader Skill** | 🏗️ **Nameplate Studio** |
 |---|---|
-| AI web-agency engine with personalised demo pages, category themes and an outreach desk. See the repository README for implemented phases and limitations. | Cloud-first Amazon + Flipkart deal-alert platform with Cloudflare Worker, D1 schema, scheduled scanner, scoring, Telegram alert path and mobile dashboard. Marketplace integrations are marked NOT CONFIGURED until credentials are added. |
-| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/nameplate-studio) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/Amazon-Flipkart-deals) |
+| An 11-skill paper-first trading toolkit covering chart scans, news, entries, exits, risk, budgeting and trade replay. Orders require explicit approval. | AI web-agency engine with personalised demo pages, category themes and an outreach desk. See the repository README for implemented phases and limitations. |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/day-trader-skill) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/nameplate-studio) |
 
-| 📊 **Trading Platform** | 🛡️ **CyberMind AI** |
+| 🛍️ **AI Ultra Deal Hunter** | 💻 **Trading Platform** |
 |---|---|
-| Python trading platform with a historical-price cache and backtesting API. The README documents a Phase 1 implementation and a rolling historical-data limitation. | Cybersecurity learning platform concept. The public README currently contains only a short project description. |
-| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/trading-platform) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/cybermind-ai) |
+| Cloud-first Amazon + Flipkart deal-alert platform with Cloudflare Worker, D1 schema, scheduled scanner, scoring, Telegram alert path and mobile dashboard. Marketplace integrations are marked NOT CONFIGURED until credentials are added. | Python trading platform with a historical-price cache and backtesting API. The README documents a Phase 1 implementation and a rolling historical-data limitation. |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/Amazon-Flipkart-deals) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/trading-platform) |
 
-</div>
+| 🛡️ **CyberMind AI** | |
+|---|---|
+| Cybersecurity learning platform concept. The public README currently contains only a short project description. | |
+| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/cybermind-ai) | |
 
 > **Project honesty:** These links showcase repositories that currently have readable project documentation. Some projects are works in progress; repository presence does not mean production-ready deployment. Empty repositories are intentionally not displayed as completed projects.
 
