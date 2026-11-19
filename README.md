@@ -2,11 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20PROJECTS%20%7C%20PYTHON%20%26%20SQL&descAlignY=60&descSize=14" width="100%" alt="Jayesh Ravindra Chaudhari profile banner" />
-
-<p align="center">
-  <img src="./assets/jayu-cyber-logo.svg" width="260" alt="JAYU cyberpunk neon logo" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:172554,100:0E7490&height=220&section=header&text=JAYESH%20CHAUDHARI&font=Orbitron&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20PROJECTS%20%7C%20PYTHON%20%26%20SQL&descAlignY=60&descSize=14" width="100%" alt="Jayesh Chaudhary profile banner" />
 
 # Hi, I'm Jayesh 👋
 
@@ -21,6 +17,12 @@
   <a href="mailto:jayuchau2424@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://github.com/JayeshChaudhari07-JC"><img src="https://img.shields.io/badge/GitHub-Follow-0F172A?style=for-the-badge&logo=github" alt="GitHub" /></a>
 </p>
+
+</div>
+
+<div align="center">
+
+[ABOUT](#-about-me) • [ANALYTICS](#-data-analytics-course--currently-pursuing) • [SKILLS](#-tech-stack) • [PROJECTS](#-featured-builds--project-arsenal) • [STATS](#-github-statistics) • [ACTIVITY](#-github-contribution-matrix) • [CONTACT](#-connect-with-me)
 
 </div>
 
@@ -89,6 +91,19 @@ My course curriculum, as provided by KS Technologies, covers:
 
 > Status reflects my current learning journey—not professional experience or completed course credentials.
 
+### 🧭 Skill Map
+
+| TRACK | TOOLS / TOPICS |
+|---|---|
+| **Data Analytics** | Python · SQL · Excel · NumPy · Pandas |
+| **BI & Visualization** | Power BI · Tableau · Charts · Dashboards |
+| **Programming** | C · C++ · Java · JavaScript |
+| **AI & Automation** | Generative AI · Prompt Engineering · AI-integrated apps |
+| **Development Tools** | Git · GitHub · VS Code · Linux |
+| **Backend / Web** | HTML · CSS · FastAPI · APIs |
+
+*Skill map reflects coursework, practice, and project exposure; proficiency varies by tool.*
+
 ## 🧰 Tech Stack
 
 <sub>These badges represent tools I use or am learning through coursework and projects; they are not a claim of expert-level proficiency.</sub>
@@ -109,6 +124,24 @@ My course curriculum, as provided by KS Technologies, covers:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
+---
+
+### 🖥️ Quick Command // Profile Console
+
+```text
+$ whoami
+  Jayesh Chaudhary — CS student / analytics learner
+
+$ focus
+  DATA ANALYTICS | PYTHON | SQL | AI PROJECTS
+
+$ mission
+  LEARN -> BUILD -> TEST -> DOCUMENT -> IMPROVE
+
+$ access
+  PUBLIC PROJECTS | OPEN SOURCE | COLLABORATION
+```
 
 ---
 
