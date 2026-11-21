@@ -178,7 +178,7 @@ $ access
 | 📊 **Retail Sales SQL + Python Analytics** | 🧠 **NSE AI Signal Platform** |
 |---|---|
 | End-to-end retail sales analytics case study with 100 synthetic transactions, SQL business queries, Pandas EDA, KPIs, discount/profit analysis and customer risk segmentation. | Participation → sector strength → stock selection → momentum → AI chart analysis → setup score → entry, stop-loss, target and risk/reward. A developing market-analysis and backtesting project. |
-| [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/retail-sales-sql-python-analytics) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/NSE-AI-SIGNAL-PLATFORM) |
+| [REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/retail-sales-sql-python-analytics) · [SQL QUERIES](https://github.com/JayeshChaudhari07-JC/retail-sales-sql-python-analytics/blob/main/sql/business_queries.sql) · [PYTHON EDA](https://github.com/JayeshChaudhari07-JC/retail-sales-sql-python-analytics/blob/main/python/eda_sales_analysis.py) · [DATASET](https://github.com/JayeshChaudhari07-JC/retail-sales-sql-python-analytics/blob/main/data/retail_sales_data.csv) | [OPEN REPOSITORY ↗](https://github.com/JayeshChaudhari07-JC/NSE-AI-SIGNAL-PLATFORM) |
 
 | 📈 **Day Trader Skill** | 🏗️ **Nameplate Studio** |
 |---|---|
